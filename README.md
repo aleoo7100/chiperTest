@@ -10,3 +10,4 @@ Para el networking se utilizo la libreria axios y moment para el formateo de las
 * Ejecutar ```$ npm run android``` o ```$ yarn android``` para correr la app android
 * Ejecutar ```$ npm run ios``` o ```$ yarn ios``` para correr la app ios (Mac)
 
+Cabe destacar que este repositorio incluye el apk de la app (app-release.apk) en la raiz del proyecto para ser facilmente descargado.
